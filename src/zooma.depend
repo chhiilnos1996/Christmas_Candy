@@ -1,0 +1,677 @@
+# depslib dependency file v1.0
+1419129232 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\class_candy.cpp
+	"rh.h"
+
+1419058826 c:\users\lochihsin\desktop\20141221-1\20141220-1\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419129162 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\class_frogcandy.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\color_t_randcolor.cpp
+	"rh.h"
+
+1419099022 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\funct_xysame.cpp
+	"rh.h"
+
+1419130736 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\main.cpp
+	"rh.h"
+
+1419059499 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\printscore.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\struct_cpoint.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\20141221-1\20141220-1\struct_fpoint.cpp
+	"rh.h"
+
+1419134500 source:c:\users\lochihsin\desktop\test05\class_candy.cpp
+	"rh.h"
+
+1419132832 c:\users\lochihsin\desktop\test05\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419129162 source:c:\users\lochihsin\desktop\test05\class_frogcandy.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\test05\color_t_randcolor.cpp
+	"rh.h"
+
+1419099022 source:c:\users\lochihsin\desktop\test05\funct_xysame.cpp
+	"rh.h"
+
+1419132708 source:c:\users\lochihsin\desktop\test05\main.cpp
+	"rh.h"
+
+1419059499 source:c:\users\lochihsin\desktop\test05\printscore.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\test05\struct_cpoint.cpp
+	"rh.h"
+
+1418960023 source:c:\users\lochihsin\desktop\test05\struct_fpoint.cpp
+	"rh.h"
+
+1419136956 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\class_candy.cpp
+	"rh.h"
+
+1419132832 c:\users\笛宣\downloads\finalproject122101\finalproject122101\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419129162 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\class_frogcandy.cpp
+	"rh.h"
+
+1418960023 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\color_t_randcolor.cpp
+	"rh.h"
+
+1419138719 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\funct_xysame.cpp
+	"rh.h"
+
+1419138719 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\main.cpp
+	"rh.h"
+
+1419138719 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\printscore.cpp
+	"rh.h"
+
+1418960023 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\struct_cpoint.cpp
+	"rh.h"
+
+1418960023 source:c:\users\笛宣\downloads\finalproject122101\finalproject122101\struct_fpoint.cpp
+	"rh.h"
+
+1419265868 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\class_candy.cpp
+	"rh.h"
+
+1419265983 c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419139275 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\class_frogcandy.cpp
+	"rh.h"
+
+1419139275 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\color_t_randcolor.cpp
+	"rh.h"
+
+1419259122 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\funct_xysame.cpp
+	"rh.h"
+
+1419265868 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\main.cpp
+	"rh.h"
+
+1419254565 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\printscore.cpp
+	"rh.h"
+
+1419139275 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\struct_cpoint.cpp
+	"rh.h"
+
+1419139275 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\struct_fpoint.cpp
+	"rh.h"
+
+1419259122 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\start.cpp
+	"rh.h"
+
+1419297661 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122102\finalproject122102\endpage.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\class_candy.cpp
+	"rh.h"
+
+1419421844 c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\class_frogcandy.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\color_t_randcolor.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\funct_xysame.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\struct_cpoint.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\struct_fpoint.cpp
+	"rh.h"
+
+1419422748 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\main.cpp
+	"rh.h"
+
+1419422375 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\printscore.cpp
+	"rh.h"
+
+1419422512 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\endpage.cpp
+	"rh.h"
+
+1419422512 source:c:\users\wuyu\documents\ntu\計程\作業\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\start.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\class_candy.cpp
+	"rh.h"
+
+1419421844 c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\class_frogcandy.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\color_t_randcolor.cpp
+	"rh.h"
+
+1419422512 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\endpage.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\funct_xysame.cpp
+	"rh.h"
+
+1419422748 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\main.cpp
+	"rh.h"
+
+1419422808 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\printscore.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\struct_cpoint.cpp
+	"rh.h"
+
+1419421844 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\struct_fpoint.cpp
+	"rh.h"
+
+1419423408 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122401_putfcinthetrack\finalproject122401_putfcinthetrack\start.cpp
+	"rh.h"
+
+1419476671 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\class_frogcandy.cpp
+	"rh.h"
+
+1419512737 c:\users\lochihsin\desktop\finalproject122501_threeormoresame\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\color_t_randcolor.cpp
+	"rh.h"
+
+1419422514 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\endpage.cpp
+	"rh.h"
+
+1419498151 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\func_threeormoresame.cpp
+	"rh.h"
+
+1419495066 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\funct_xysame.cpp
+	"rh.h"
+
+1419496933 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\main.cpp
+	"rh.h"
+
+1419422810 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\printscore.cpp
+	"rh.h"
+
+1419423484 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\start.cpp
+	"rh.h"
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\struct_cpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\struct_fpoint.cpp
+	"rh.h"
+
+1419513460 source:c:\users\lochihsin\desktop\finalproject122501_threeormoresame\class_candy.cpp
+	"rh.h"
+
+1419515061 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\class_candy.cpp
+	"rh.h"
+
+1419512737 c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419476671 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\class_frogcandy.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\color_t_randcolor.cpp
+	"rh.h"
+
+1419422514 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\endpage.cpp
+	"rh.h"
+
+1419495066 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\funct_xysame.cpp
+	"rh.h"
+
+1419496933 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\main.cpp
+	"rh.h"
+
+1419422810 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\printscore.cpp
+	"rh.h"
+
+1419423484 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\start.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\struct_cpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\struct_fpoint.cpp
+	"rh.h"
+
+1419515847 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalprojectpushforward\func_threeormoresame.cpp
+	"rh.h"
+
+1419515061 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\class_candy.cpp
+	"rh.h"
+
+1419520750 c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419476671 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\class_frogcandy.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\color_t_randcolor.cpp
+	"rh.h"
+
+1419422514 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\endpage.cpp
+	"rh.h"
+
+1419521394 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\func_threeormoresame.cpp
+	"rh.h"
+
+1419520793 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\funct_xysame.cpp
+	"rh.h"
+
+1419521567 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\main.cpp
+	"rh.h"
+
+1419520750 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\printscore.cpp
+	"rh.h"
+
+1419423484 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\start.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\struct_cpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\struct_fpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419521394 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\func_printscore.cpp
+	"rh.h"
+
+1419520793 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\func_putfconthetrack.cpp
+	"rh.h"
+
+1419423484 source:c:\users\笛宣\downloads\finalproject122502_pushforward\finalproject122503\startpage.cpp
+	"rh.h"
+
+1419660066 source:c:\users\lochihsin\desktop\finalproject122701\class_frogcandy.cpp
+	"rh.h"
+
+1419695696 c:\users\lochihsin\desktop\finalproject122701\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419526181 source:c:\users\lochihsin\desktop\finalproject122701\endpage.cpp
+	"rh.h"
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122701\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419521394 source:c:\users\lochihsin\desktop\finalproject122701\func_printscore.cpp
+	"rh.h"
+
+1419523034 source:c:\users\lochihsin\desktop\finalproject122701\func_threeormoresame.cpp
+	"rh.h"
+
+1419614281 source:c:\users\lochihsin\desktop\finalproject122701\main.cpp
+	"rh.h"
+
+1419423484 source:c:\users\lochihsin\desktop\finalproject122701\startpage.cpp
+	"rh.h"
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122701\struct_cpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\lochihsin\desktop\finalproject122701\struct_fpoint.cpp
+	"rh.h"
+
+1419662704 source:c:\users\lochihsin\desktop\finalproject122701\class_candy.cpp
+	"rh.h"
+
+1419662704 source:c:\users\lochihsin\desktop\finalproject122701\func_putfconthetrack.cpp
+	"rh.h"
+
+1419751855 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\class_candy.cpp
+	"rh.h"
+
+1419695696 c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419660066 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\class_frogcandy.cpp
+	"rh.h"
+
+1419526181 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\endpage.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419521394 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\func_printscore.cpp
+	"rh.h"
+
+1419662704 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\func_putfconthetrack.cpp
+	"rh.h"
+
+1419750432 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\func_threeormoresame.cpp
+	"rh.h"
+
+1419695552 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\startpage.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\struct_cpoint.cpp
+	"rh.h"
+
+1419421846 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\struct_fpoint.cpp
+	"rh.h"
+
+1419746453 source:c:\users\笛宣\downloads\finalproject122702merged\finalproject122701\main.cpp
+	"rh.h"
+
+1419765720 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\class_candy.cpp
+	"rh.h"
+
+1419765721 c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419765720 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\class_frogcandy.cpp
+	"rh.h"
+
+1419766599 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\endpage.cpp
+	"rh.h"
+
+1419765720 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419765720 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\func_printscore.cpp
+	"rh.h"
+
+1419765721 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\func_putfconthetrack.cpp
+	"rh.h"
+
+1419765721 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\func_threeormoresame.cpp
+	"rh.h"
+
+1419767292 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\main.cpp
+	"rh.h"
+
+1419766599 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\startpage.cpp
+	"rh.h"
+
+1419765721 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\struct_cpoint.cpp
+	"rh.h"
+
+1419765721 source:c:\users\wuyu\documents\ntu\計程\project\finalproject122801-debugthreeormoresame\finalproject122801-debugthreeormoresame\struct_fpoint.cpp
+	"rh.h"
+
+1419851017 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\class_candy.cpp
+	"rh.h"
+
+1419765722 c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\class_frogcandy.cpp
+	"rh.h"
+
+1419766600 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\endpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\func_printscore.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\func_putfconthetrack.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\func_threeormoresame.cpp
+	"rh.h"
+
+1419858050 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\main.cpp
+	"rh.h"
+
+1419860933 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\startpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\struct_cpoint.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122801-debugthreeormoresame\struct_fpoint.cpp
+	"rh.h"
+
+1419851017 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\class_candy.cpp
+	"rh.h"
+
+1419765722 c:\users\lochihsin\desktop\finalproject122901-gameguide\rh.h
+	<graphics.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\class_frogcandy.cpp
+	"rh.h"
+
+1419766600 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\endpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\func_printscore.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\func_putfconthetrack.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\func_threeormoresame.cpp
+	"rh.h"
+
+1419858050 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\main.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\struct_cpoint.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\struct_fpoint.cpp
+	"rh.h"
+
+1419862564 source:c:\users\lochihsin\desktop\finalproject122901-gameguide\startpage.cpp
+	"rh.h"
+
+1419851017 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\class_candy.cpp
+	"rh.h"
+
+1419865262 c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\rh.h
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\class_frogcandy.cpp
+	"rh.h"
+
+1419766600 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\endpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\func_printscore.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\func_putfconthetrack.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\func_threeormoresame.cpp
+	"rh.h"
+
+1419862894 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\startpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\struct_cpoint.cpp
+	"rh.h"
+
+1419765722 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\struct_fpoint.cpp
+	"rh.h"
+
+1419865628 source:c:\users\笛宣\downloads\finalproject122902-gameguide\finalproject122902-gameguide\main.cpp
+	"rh.h"
+
+1419766600 source:c:\users\lochihsin\desktop\finalproject123003\endpage.cpp
+	"rh.h"
+
+1419931825 c:\users\lochihsin\desktop\finalproject123003\rh.h
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123003\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419924514 source:c:\users\lochihsin\desktop\finalproject123003\func_printscore.cpp
+	"rh.h"
+
+1419923080 source:c:\users\lochihsin\desktop\finalproject123003\startpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123003\struct_cpoint.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123003\struct_fpoint.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123003\class_frogcandy.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123003\func_putfconthetrack.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123003\func_threeormoresame.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123003\main.cpp
+	"rh.h"
+
+1419931271 source:c:\users\lochihsin\desktop\finalproject123003\class_candy.cpp
+	"rh.h"
+
+1419932152 source:c:\users\lochihsin\desktop\finalproject123004\class_candy.cpp
+	"rh.h"
+
+1419938673 c:\users\lochihsin\desktop\finalproject123004\rh.h
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123004\class_frogcandy.cpp
+	"rh.h"
+
+1419766600 source:c:\users\lochihsin\desktop\finalproject123004\endpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123004\func_color_t_randcolor.cpp
+	"rh.h"
+
+1419924514 source:c:\users\lochihsin\desktop\finalproject123004\func_printscore.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123004\func_putfconthetrack.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123004\func_threeormoresame.cpp
+	"rh.h"
+
+1419927229 source:c:\users\lochihsin\desktop\finalproject123004\main.cpp
+	"rh.h"
+
+1419939268 source:c:\users\lochihsin\desktop\finalproject123004\startpage.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123004\struct_cpoint.cpp
+	"rh.h"
+
+1419765722 source:c:\users\lochihsin\desktop\finalproject123004\struct_fpoint.cpp
+	"rh.h"
+
